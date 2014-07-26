@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Window Controller Source File</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>///:
+/*****************************************************************************
+ **                                                                         **
+ **                               .======.                                  **
+ **                               | INRI |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                      .========'      '========.                         **
+ **                      |   _      xxxx      _   |                         **
+ **                      |  /_;-.__ / _\  _.-;_\  |                         **
+ **                      |     `-._`'`_/'`.-'     |                         **
+ **                      '========.`\   /`========'                         **
+ **                               | |  / |                                  **
+ **                               |/-.(  |                                  **
+ **                               |\_._\ |                                  **
+ **                               | \ \`;|                                  **
+ **                               |  &gt; |/|                                  **
+ **                               | / // |                                  **
+ **                               | |//  |                                  **
+ **                               | \(\  |                                  **
+ **                               |  ``  |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                   \\    _  _\\| \//  |//_   _ \// _                     **
+ **                  ^ `^`^ ^`` `^ ^` ``^^`  `^^` `^ `^                     **
+ **                                                                         **
+ **                       Copyright (c) &lt;#year#&gt; Tong G.                        **
+ **                          ALL RIGHTS RESERVED.                           **
+ **                                                                         **
+ ****************************************************************************/
+
+#import "&lt;#prefix#&gt;WindowController.h"
+
+// &lt;#prefix#&gt;WindowController class
+@implementation &lt;#prefix#&gt;WindowController
+
+#pragma mark Initializers
++ ( id ) &lt;#prefix#&gt;WindowController
+    {
+    return [ [ [ [ self class ] alloc ] init ] autorelease ];
+    }
+
+- ( id ) init
+    {
+    if ( self = [ super initWithWindowNibName: @"&lt;#nib name#&gt;" ] )
+        {
+        // TODO:
+        }
+
+    return self;
+    }
+
+#pragma mark Conforms &lt;NSNibAwaking&gt; protocol
+- ( void ) awakeFromNib
+    {
+    // TODO:
+    }
+
+@end // &lt;#prefix#&gt;WindowController
+
+/////////////////////////////////////////////////////////////////////////////
+
+/****************************************************************************
+ **                                                                        **
+ **      _________                                      _______            **
+ **     |___   ___|                                   / ______ \           **
+ **         | |     _______   _______   _______      | /      |_|          **
+ **         | |    ||     || ||     || ||     ||     | |    _ __           **
+ **         | |    ||     || ||     || ||     ||     | |   |__  \          **
+ **         | |    ||     || ||     || ||     ||     | \_ _ __| |  _       **
+ **         |_|    ||_____|| ||     || ||_____||      \________/  |_|      **
+ **                                           ||                           **
+ **                                    ||_____||                           **
+ **                                                                        **
+ ***************************************************************************/
+///:~</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>54AFBEA2-A9C7-4210-9B1A-DB3A237A4BB5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>WindowController.m</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

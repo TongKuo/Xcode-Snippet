@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>View Controller Header File</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>///:
+/*****************************************************************************
+ **                                                                         **
+ **                               .======.                                  **
+ **                               | INRI |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                      .========'      '========.                         **
+ **                      |   _      xxxx      _   |                         **
+ **                      |  /_;-.__ / _\  _.-;_\  |                         **
+ **                      |     `-._`'`_/'`.-'     |                         **
+ **                      '========.`\   /`========'                         **
+ **                               | |  / |                                  **
+ **                               |/-.(  |                                  **
+ **                               |\_._\ |                                  **
+ **                               | \ \`;|                                  **
+ **                               |  &gt; |/|                                  **
+ **                               | / // |                                  **
+ **                               | |//  |                                  **
+ **                               | \(\  |                                  **
+ **                               |  ``  |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                   \\    _  _\\| \//  |//_   _ \// _                     **
+ **                  ^ `^`^ ^`` `^ ^` ``^^`  `^^` `^ `^                     **
+ **                                                                         **
+ **                       Copyright (c) &lt;#year#&gt; Tong G.                        **
+ **                          ALL RIGHTS RESERVED.                           **
+ **                                                                         **
+ ****************************************************************************/
+
+#import &lt;Cocoa/Cocoa.h&gt;
+
+// &lt;#prefix#&gt;ViewController
+@interface &lt;#prefix#&gt;ViewController : NSViewController
+
++ ( id ) &lt;#prefix#&gt;ViewController;
+
+@end // &lt;#prefix#&gt;ViewController
+
+/////////////////////////////////////////////////////////////////////////////
+
+/****************************************************************************
+ **                                                                        **
+ **      _________                                      _______            **
+ **     |___   ___|                                   / ______ \           **
+ **         | |     _______   _______   _______      | /      |_|          **
+ **         | |    ||     || ||     || ||     ||     | |    _ __           **
+ **         | |    ||     || ||     || ||     ||     | |   |__  \          **
+ **         | |    ||     || ||     || ||     ||     | \_ _ __| |  _       **
+ **         |_|    ||_____|| ||     || ||_____||      \________/  |_|      **
+ **                                           ||                           **
+ **                                    ||_____||                           **
+ **                                                                        **
+ ***************************************************************************/
+///:~</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>4AC15A43-9222-4176-9B4C-212895F59D58</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>ViewController.h</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>

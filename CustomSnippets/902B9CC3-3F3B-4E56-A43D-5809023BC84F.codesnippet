@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>Main Source File</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>///:
+/*****************************************************************************
+ **                                                                         **
+ **                               .======.                                  **
+ **                               | INRI |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                      .========'      '========.                         **
+ **                      |   _      xxxx      _   |                         **
+ **                      |  /_;-.__ / _\  _.-;_\  |                         **
+ **                      |     `-._`'`_/'`.-'     |                         **
+ **                      '========.`\   /`========'                         **
+ **                               | |  / |                                  **
+ **                               |/-.(  |                                  **
+ **                               |\_._\ |                                  **
+ **                               | \ \`;|                                  **
+ **                               |  &gt; |/|                                  **
+ **                               | / // |                                  **
+ **                               | |//  |                                  **
+ **                               | \(\  |                                  **
+ **                               |  ``  |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                   \\    _  _\\| \//  |//_   _ \// _                     **
+ **                  ^ `^`^ ^`` `^ ^` ``^^`  `^^` `^ `^                     **
+ **                                                                         **
+ **                       Copyright (c) &lt;#year#&gt; Tong G.                        **
+ **                          ALL RIGHTS RESERVED.                           **
+ **                                                                         **
+ ****************************************************************************/
+
+#import &lt;Cocoa/Cocoa.h&gt;
+
+int main( int _Argc, char const* _Argv[] )
+    {
+    return NSApplicationMain( _Argc, _Argv );
+    }
+
+/////////////////////////////////////////////////////////////////////////////
+
+/****************************************************************************
+ **                                                                        **
+ **      _________                                      _______            **
+ **     |___   ___|                                   / ______ \           **
+ **         | |     _______   _______   _______      | /      |_|          **
+ **         | |    ||     || ||     || ||     ||     | |    _ __           **
+ **         | |    ||     || ||     || ||     ||     | |   |__  \          **
+ **         | |    ||     || ||     || ||     ||     | \_ _ __| |  _       **
+ **         |_|    ||_____|| ||     || ||_____||      \________/  |_|      **
+ **                                           ||                           **
+ **                                    ||_____||                           **
+ **                                                                        **
+ ***************************************************************************/
+///:~</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>902B9CC3-3F3B-4E56-A43D-5809023BC84F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>main.m</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

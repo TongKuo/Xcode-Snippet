@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>App Delegate Header File</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>///:
+/*****************************************************************************
+ **                                                                         **
+ **                               .======.                                  **
+ **                               | INRI |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                      .========'      '========.                         **
+ **                      |   _      xxxx      _   |                         **
+ **                      |  /_;-.__ / _\  _.-;_\  |                         **
+ **                      |     `-._`'`_/'`.-'     |                         **
+ **                      '========.`\   /`========'                         **
+ **                               | |  / |                                  **
+ **                               |/-.(  |                                  **
+ **                               |\_._\ |                                  **
+ **                               | \ \`;|                                  **
+ **                               |  &gt; |/|                                  **
+ **                               | / // |                                  **
+ **                               | |//  |                                  **
+ **                               | \(\  |                                  **
+ **                               |  ``  |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                               |      |                                  **
+ **                   \\    _  _\\| \//  |//_   _ \// _                     **
+ **                  ^ `^`^ ^`` `^ ^` ``^^`  `^^` `^ `^                     **
+ **                                                                         **
+ **                       Copyright (c) &lt;#year#&gt; Tong G.                        **
+ **                          ALL RIGHTS RESERVED.                           **
+ **                                                                         **
+ ****************************************************************************/
+
+#import &lt;Cocoa/Cocoa.h&gt;
+
+@class &lt;#prefix#&gt;MainWindowController;
+
+// &lt;#prefix#&gt;AppDelegate class
+@interface &lt;#prefix#&gt;AppDelegate : NSObject &lt;NSApplicationDelegate&gt;
+
+@property ( retain ) &lt;#prefix#&gt;MainWindowController* _mainWindowController;
+
+@end // &lt;#prefix#&gt;AppDelegate
+
+/////////////////////////////////////////////////////////////////////////////
+
+/****************************************************************************
+ **                                                                        **
+ **      _________                                      _______            **
+ **     |___   ___|                                   / ______ \           **
+ **         | |     _______   _______   _______      | /      |_|          **
+ **         | |    ||     || ||     || ||     ||     | |    _ __           **
+ **         | |    ||     || ||     || ||     ||     | |   |__  \          **
+ **         | |    ||     || ||     || ||     ||     | \_ _ __| |  _       **
+ **         |_|    ||_____|| ||     || ||_____||      \________/  |_|      **
+ **                                           ||                           **
+ **                                    ||_____||                           **
+ **                                                                        **
+ ***************************************************************************/
+///:~</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>46E66FAE-0921-401D-8D7A-A79B3E7E1FC7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>AppDelegate.h</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
